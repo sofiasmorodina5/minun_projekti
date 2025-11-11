@@ -1,0 +1,4 @@
+Oli kerran ohjelmoija, joka oppi käyttämään Gitiä.
+Hän oli aluksi hieman hämmentynyt, mutta harjoittelu teki mestarin.
+Päivä päivältä hän oppi uusia komentoja ja vihdoin ymmärsi
+miten hyödyllinen työkalu Git on versionhallintaan.
